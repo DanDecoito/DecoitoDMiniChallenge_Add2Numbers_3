@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IN00HJ+IFds3oUu5SWvmJo9RXjQedXXtSstytOUY269it/cegRLUh2XmmJmxVZmfbv2+/97BoaBcjHbCwp32rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Documents\\Code Stack Academy\\Homework\\DecoitoDMiniChallenge_Add2Numbers_3\\DecoitoDMiniChallenge_Add2Numbers_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
