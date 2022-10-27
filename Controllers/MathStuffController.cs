@@ -17,7 +17,6 @@ public class MathStuffController : ControllerBase
    
  [HttpGet]
  [Route("Adding/{num1}/{num2}")]
-
  public int Adding(string num1, string num2)
  {
     int number1 = int.Parse(num1);
